@@ -1,7 +1,11 @@
 {
   "name": "dsh-mbti-regulator",
-  "version": "0.0.0",
-  "private": true,
-  "description": "MBTI 稳压器：基于 MBTI×荣格八维的个人状态稳压滋养与战斗增强引擎（DeepSeek Harness 插件，概念阶段）",
-  "license": "MIT"
+  "version": "0.0.1",
+  "description": "MBTI 稳压器：基于 MBTI×荣格八维的个人状态稳压滋养与战斗增强引擎（DeepSeek Harness 插件，概念占位阶段）",
+  "main": "index.js",
+  "files": ["index.js"],
+  "keywords": ["dsh", "dsh-plugin", "mbti", "jung", "deepseek-harness"],
+  "license": "MIT",
+  "repository": {"type": "git", "url": "git+https://github.com/guhanfei-ai/dsh-mbti-regulator.git"},
+  "publishConfig": {"access": "public", "registry": "https://registry.npmjs.org"}
 }
